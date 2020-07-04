@@ -24,7 +24,7 @@ class Sprinter(Robot):
         # self.LHipRoll = self.getMotor('LHipRoll')
         # self.RHipPitch = self.getMotor('RHipPitch')
         # self.LHipPitch = self.getMotor('LHipPitch')
-        # self.RKneePitc = self.getMotor('RKneePitch')
+        # self.RKneePitch = self.getMotor('RKneePitch')
         # self.LKneePitch = self.getMotor('LKneePitch')
         # self.RAnklePitch = self.getMotor('RAnklePitch')
         # self.LAnklePitch = self.getMotor('LAnklePitch')
